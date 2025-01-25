@@ -1,7 +1,8 @@
 # kaif-mansoori
 
 # 💫 About Me:
-🚧 I’m currently working on<br>🏗️ I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🚧 I’m currently working on an e-commerce website at GIAIC<br> 🏗️ I’m looking to collaborate on software development projects<br>🌱 I’m currently learning software engineering at SMIU (Kaif Mansoori)<br>💬 Ask me about e-commerce, web development, and programming<br>⚡ Fun fact I love exploring new technologies and optimizing code for efficiency!
+
 
 
 ## 🌐 Socials:
